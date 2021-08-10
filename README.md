@@ -1,7 +1,4 @@
-# Responsive Portfolio Clay Doe
-## [Watch it on youtube](https://youtu.be/BS6blX035NM)
-### Responsive Portfolio Clay Doe
-Clean and nice web portfolio, fully developed mobile first and responsive, for a designer or developer. It includes a Header, Home, About, Qualification, Services, Project in mind, Portfolio, Testimonial, Contact and Footer. And web animations in the home part.
+# PortFolio_Website
+Complete Portfolio Website with Bootstrap - HTML/CSS In this project, we are going to learn and build how to create a complete portfolio website with bootstrap using HTML and CSS. We will understand everything from scratch. 
 
-Don't forget to join the channel for more videos like this.
-[Bedimcode](https://www.youtube.com/c/Bedimcode)
+## To execute this project just open index.html file in the browser.
